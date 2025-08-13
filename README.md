@@ -18,11 +18,12 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdualimovBotir/AbdualimovBotir/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbdualimovBotir/AbdualimovBotir/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AbdualimovBotir/AbdualimovBotir/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/AbdualimovBotir/output/main/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/AbdualimovBotir/output/main/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/AbdualimovBotir/output/main/github-snake.svg" />
   </picture>
 </div>
+
 
 ## About Me 🚀
 
